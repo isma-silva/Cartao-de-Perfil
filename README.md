@@ -4,31 +4,19 @@
 
 ## Bem-Vindo(a)! 👋
 
-Thanks for checking out this front-end coding challenge.
+Frontend Mentor são desafios para programadores praticarem e aprimorarem seus códigos com desafios do básico ao avançado.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor](https://www.frontendmentor.io).
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+## Desafio
 
-## The challenge
+Como já diz no título, eu tive que fazer um "cartão de perfil". Nesse desafio foi necessário montar a estrutura HTML e fazer a estilização CSS.
 
-Your challenge is to build out this profile card component and get it looking as close to the design as possible.
+## Processo
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Eu fiz e refiz toda a estrutura da página pensando da melhor forma possível para uma boa estilização. Quando consegui uma boa estrutura, estilizei todos os elementos indo de forma ao efeito cascata do próprio CSS, ou seja, comecei de pai para filho em uma ordem de hierarquia.
+Finalizando toda a parte de HTML e CSS na resolução Desktop, pulei para a responsividade, que no caso não precisei fazer muita coisa. Ele me atendeu muito bem com uma resolução pequena (375px), só precisei centralizar o link fora do cartão.
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
-
-## Where to find everything
-
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
-
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
-
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
-
-You will find all the required assets in the `/images` folder. The assets are already optimized.
-
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
 ## Building your project
 
