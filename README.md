@@ -19,7 +19,7 @@ Finalizando toda a parte de HTML e CSS na resolução Desktop, pulei para a resp
 
 ## Resultado Desktop
 
-(./designer/resultado-desktop.png)
+(./design/resultado-desktop.png)
 
 ## Deploying your project
 
