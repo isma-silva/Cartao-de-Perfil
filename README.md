@@ -19,7 +19,7 @@ Finalizando toda a parte de HTML e CSS na resolução Desktop, pulei para a resp
 
 ## Resultado
 
-### Dektop
+### Desktop
 ![Resultado-Desktop](./design/resultado-desktop.png)
 
 ### Mobile
