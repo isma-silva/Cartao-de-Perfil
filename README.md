@@ -17,10 +17,12 @@ Como já diz no título, eu tive que fazer um "cartão de perfil". Nesse desafio
 Eu fiz e refiz toda a estrutura da página pensando da melhor forma possível para uma boa estilização. Quando consegui uma boa estrutura, estilizei todos os elementos indo de forma ao efeito cascata do próprio CSS, ou seja, comecei de pai para filho em uma ordem de hierarquia.
 Finalizando toda a parte de HTML e CSS na resolução Desktop, pulei para a responsividade, que no caso não precisei fazer muita coisa. Ele me atendeu muito bem com uma resolução pequena (375px), só precisei centralizar o link fora do cartão.
 
-## Resultado Desktop e Mobile
+## Resultado
 
+### Dektop
 ![Resultado-Desktop](./design/resultado-desktop.png)
 
+### Mobile
 ![Resultado-Mobile](./design/resultado-mobile.png)
 
 ## Ferramentas Utilizadas
